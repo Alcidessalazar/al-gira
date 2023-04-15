@@ -1,0 +1,25 @@
+body {
+    background-color: hsl(203, 82%, 4%);
+    font-family: sans-serif;
+    overflow: hidden;
+    
+}
+
+  .cell {cursor:cell;}
+ 
+  .card {
+    background-color: #0f70a0;
+    border-radius: 40px;
+  }
+
+  .card__number {
+    margin-bottom: 0.5em;
+    font-size: 1.8rem;
+  }
+
+  .card__text {
+    font-family: monospace;
+    color: #cbc4c4;
+    font-weight: bold;
+  }
+
